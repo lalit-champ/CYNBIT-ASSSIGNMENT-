@@ -1,0 +1,18 @@
+.container {
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 10px;
+    border-color: black;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    
+}
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: rgb(242, 242, 242);
+}
