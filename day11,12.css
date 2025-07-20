@@ -1,0 +1,21 @@
+body {
+  font-family: Arial;
+  background: #f0f0f0;
+}
+.login-container {
+  width: 300px;
+  margin: 100px auto;
+  padding: 20px;
+  background: white;
+  box-shadow: 0 0 10px gray;
+  border-radius: 8px;
+}
+input, button {
+  width: 100%;
+  margin: 8px 0;
+  padding: 10px;
+}
+#strengthMessage {
+  font-size: 12px;
+  color: green;
+}
